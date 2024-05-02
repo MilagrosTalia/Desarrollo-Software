@@ -33,7 +33,8 @@ RN1: En caso de que el cliente no asista al corte en sucursal, se le aplica una 
 
 RN2: En caso de que el cliente no asista al corte a domicilio, se le aplica una tarifa del 50% al próximo servicio que solicite el cliente. El PD actualiza el estado de turno a “Ausente” y actualiza el estado de cobro a “Pendiente”.
 
-RN3:  Cada peluquero cuenta con un numero que lo identifica, además posee una descripción con el tipo de servicio al cual se dedica (domicilio - local)
+RN3:  Cada peluquero cuenta con un numero que lo identifica, además posee una descripción con el tipo de servicio al cual se dedica (domicilio - local).
+
 Llegada la fecha del turno el CLI se presenta a la peluquería y es recibido por el EP. Una vez realizado el corte, el cliente le indica al EP el medio de pago, puede hacerlo en efectivo o por MercadoPago. Luego que el EP realiza el cobro, se actualiza el estado del cobro a “Abonado”.
 
 El PE atiende al CLI el EP actualiza el estado del turno (Atendido) en el sistema.
