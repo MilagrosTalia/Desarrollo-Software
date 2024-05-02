@@ -22,7 +22,9 @@ _Descripción del negocio. _
 Cuando una persona o cliente (CLI) necesita obtener un turno para la peluquería ingresa a la página web, en caso de no estar registrado el sistema solicita los datos al cliente (DNI, nombre y apellido, mail, dirección y teléfono). Una vez que el cliente está logueado ingresa los datos del turno:
 
 fecha-desde: Se ingresa día en el calendario proporcionado por el sistema.
+
 fecha-hasta: Se ingresa día en el calendario proporcionado por el sistema.
+
 tipo-turno: Admite dos tipos de modalidades (domicilio/sucursal), en caso de ser un corte a domicilio se le cobrará un 25% más.
 En base a los datos ingresados el sistema verifica los horarios y días disponibles, el CLI lo reserva y el sistema actualiza el estado del turno reservado. En caso de que el cliente decida modificar o cancelar el turno lo deberá hacer con 24 horas de anticipación.
 
