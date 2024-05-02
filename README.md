@@ -52,3 +52,10 @@ El cliente selecciona los productos que desea, los agrega al carrito y seleccion
 Posibles extensiones: /*Asignar turno por peluquero. Asignar turnos por sucursales. Realizar seña de turno. Realizar compra sin estar logueado. */
 
 Siguiente entrega: CRUD PE.
+
+
+
+*MODELO DE DOMINIO*
+
+![Peluqueria drawio](https://github.com/MilagrosTalia/Desarrollo-Software/assets/132961185/478cdfd0-446b-4e17-95c5-162a68bde3f8)
+
