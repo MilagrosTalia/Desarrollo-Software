@@ -26,11 +26,9 @@ fecha-desde: Se ingresa día en el calendario proporcionado por el sistema.
 fecha-hasta: Se ingresa día en el calendario proporcionado por el sistema.
 
 tipo-turno: Admite dos tipos de modalidades (domicilio/sucursal), en caso de ser un corte a domicilio se le cobrará un 25% más.
-En base a los datos ingresados el sistema verifica los horarios y días disponibles, el CLI lo reserva y el sistema actualiza el estado del turno reservado. En caso de que el cliente decida modificar o cancelar el turno lo deberá hacer con 24 horas de anticipación.
 
-En base a los datos ingresados el sistema verifica los horarios y días disponibles, el CLI lo reserva y el sistema actualiza el estado del turno reservado. Los turnos se encuentran codificados poseen fecha, hora.
+En base a los datos ingresados el sistema verifica los horarios y días disponibles, el CLI lo reserva y el sistema actualiza el estado del turno reservado ( Los turnos se encuentran codificados poseen fecha, hora.). En caso de que el cliente decida modificar o cancelar el turno lo deberá hacer con 24 horas de anticipación.
 
- En caso de que el cliente decida modificar o cancelar el turno lo deberá hacer con 24 horas de anticipación.
 RN1: En caso de que el cliente no asista al corte en sucursal, se le aplica una tarifa del 25% al próximo servicio que solicite el cliente.El EP actualiza estado de turno a “Ausente” y actualiza el estado de cobro a “Pendiente”.
 
 RN2: En caso de que el cliente no asista al corte a domicilio, se le aplica una tarifa del 50% al próximo servicio que solicite el cliente. El PD actualiza el estado de turno a “Ausente” y actualiza el estado de cobro a “Pendiente”.
