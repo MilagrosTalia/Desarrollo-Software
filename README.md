@@ -6,7 +6,9 @@ De Carlos, David - 51482
 // Ferramondo, Pedro - 50385
 // Ferraris, Manuel - 51937
 // Talia, Milagros - 51406
+
 Minuta de Relevamiento N° 1
+
 Tema: Relevamiento inicial
 
 Fecha: 05/04/2024
