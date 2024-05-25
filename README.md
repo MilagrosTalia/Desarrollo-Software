@@ -38,9 +38,13 @@ RN4: Los estados de cobro posibles son (Pendiente/Abonado).
 
 En caso de que el tipo de turno sea a domicilio el PD a cargo de este turno se dirige hacia el domicilio asignado. Es recibido por el cliente, verifica el medio de pago seleccionado por este y cobra el importe. Luego de esto el PD realiza el servicio y actualiza el estado de turno y cobro.
 
-![Peluqueria drawio](https://github.com/MilagrosTalia/Desarrollo-Software/assets/132961185/7995a0ba-a13c-4abe-b711-48503d3f11db)
-
-
 El sistema que debemos desarrollar también cuenta con apartado de compras en la página web, donde se muestran los productos capilares y cosméticos disponibles en la peluquería. El cliente selecciona los productos que desea, los agrega al carrito y selecciona el método de pago (MercadoPago), se deberá presentar al local para retirar el pedido. Cuando una persona o cliente (CLI) desea finalizar la compra, [en caso de no estar registrado el sistema solicita los datos al cliente (DNI, Nombre y apellido, mail, dirección y telefono)], el sistema verifica el cobro y descuenta el stock de los productos. El EP prepara el pedido para la posterior entrega del cliente.
 
 Posibles extensiones: /*Asignar turno por peluquero. Asignar turnos por sucursales. Realizar seña de turno. Realizar compra sin estar logueado. */
+
+
+Modelo de dominio : 
+
+
+![Peluqueria drawio](https://github.com/MilagrosTalia/Desarrollo-Software/assets/132961185/28ce14f1-a802-4873-be81-fcec8ee738e9)
+
