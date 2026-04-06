@@ -7,7 +7,7 @@
 
 ### Repositorio
 
- git@github.com:MilagrosTalia/Desarrollo-Software.git
+git@github.com:MilagrosTalia/Desarrollo-Software
 
 ## Tema
 ### Descripción
