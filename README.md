@@ -16,7 +16,7 @@ Trabajaremos con el complejo 'La Tomasa', ofrece 7 cabañas con distintas capaci
 una misma cabaña en las mismas fechas...
 
 ### Modelo
-<img width="892" height="530" alt="image" src="https://github.com/user-attachments/assets/f43c01f5-9645-48eb-9acb-a91a209287ba" />
+<img width="845" height="516" alt="image" src="https://github.com/user-attachments/assets/b5cc035e-83d1-420d-b3b8-224f80d22d55" />
 
 ## Alcance Funcional 
 
